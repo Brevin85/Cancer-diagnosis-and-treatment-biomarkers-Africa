@@ -1,5 +1,6 @@
-# Cancer-diagnosis-and-treatment-biomarkers-Africa
+# Cancer Diagnosis and Treatment Biomarkers, Africa
 Welcome to our databese!
+
 A database that highlights the various cancer biomarkers identified in various African Populations that can be used for both diagnosis and treatment purposes
 
 # Background
