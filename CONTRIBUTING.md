@@ -91,9 +91,10 @@ As a token of our appreciation, contributors may receive the following recogniti
 ## Leveling Up to Project Maintainers
 We believe in providing pathways for contributors to grow within the project. Here’s how you can “level up” to become a project maintainer:
 
-* Bug Resolution: Successfully resolve a specified number of bugs (e.g., 10 bugs).
+* Bug Resolution: Successfully resolve a specified number of bugs (e.g., 10 bugs). 
 * Contributions Submitted: Submit a certain number of meaningful changes or enhancements (e.g., 5 pull requests).
 * Community Engagement: Actively participate in discussions and help onboard new contributors.
+  
 We will fill in specific criteria and recognition details later as the project evolves. Thank you once again for your interest and support—together, we can make a significant impact!
 
 
