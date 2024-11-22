@@ -53,7 +53,8 @@ To submit your work or changes to the repository or collection of ongoing work, 
 
 # Good First Bugs for the Contributors
 
-For the Cancer Diagnosis and Treatment Biomarkers Project, new contributors are encouraged to start with "Good First Bugs," which are small, manageable, and meaningful tasks that facilitate a smooth entry into the project. These tasks include reviewing the README file for clarity and completeness, reporting issues such as broken links or unclear instructions, and making simple code fixes like correcting minor syntax errors. Contributors can also assist by testing existing features and providing feedback on usability, as well as engaging with the community through discussions and support.
+For the Cancer Diagnosis and Treatment Biomarkers Project, new contributors are encouraged to start with "Good First Bugs," which are small, manageable, and meaningful tasks that facilitate a smooth entry into the project. 
+These tasks include reviewing the README file for clarity and completeness, reporting issues such as broken links or unclear instructions, and making simple code fixes like correcting minor syntax errors. Contributors can also assist by testing existing features and providing feedback on usability, as well as engaging with the community through discussions and support.
 
 # How to Report a Bug. 
 
