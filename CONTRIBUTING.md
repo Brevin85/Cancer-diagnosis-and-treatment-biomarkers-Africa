@@ -8,7 +8,7 @@ Welcome to the Cancer Diagnosis and Treatment Biomarkers project! We’re excite
 
 # Project's Code of Conduct for Users
 
-Every user should familiarize with our project's code of conduct.....
+The Cancer Diagnosis and Treatment Biomarkers Project is committed to fostering an inclusive and respectful environment for all contributors. We believe that a diverse community enhances our project and leads to better outcomes. To ensure a positive experience for everyone, we ask all participants to adhere to the following Code of Conduct:
 
 # Important Resources for Contributors
 * ReadMe
