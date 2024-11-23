@@ -98,6 +98,27 @@ We believe in providing pathways for contributors to grow within the project. He
   
 We will fill in specific criteria and recognition details later as the project evolves. Thank you once again for your interest and support—together, we can make a significant impact!
 
+# Where to Go for Help
+If you have any questions or need assistance while contributing to the Cancer Diagnosis and Treatment Biomarkers Project, we’re here to help! Here’s how you can get in touch:
+
+## Contact Information
+* Email: For general inquiries, you can reach us at support@cancerbiomarkersproject.org.
+* GitHub Issues: If you encounter a specific issue or bug, please submit it directly through the "Issues" tab on our GitHub repository. This allows us to track and address your concerns efficiently.
+* Community Forum: Join our community forum at forum.cancerbiomarkersproject.org to ask questions, share ideas, and engage with other contributors.
+
+## Process for Getting in Touch
+### 1 Identify Your Question: 
+Determine whether your inquiry is general, technical, or related to a specific issue.
+### 2 Choose Your Contact Method:
+* For general questions, use the email provided.
+* For technical issues or bugs, submit an issue on GitHub.
+* For community discussions, post in the forum.
+### 3 Provide Details: 
+When reaching out, include relevant details such as:
+* A clear description of your question or issue.
+* Any steps you’ve already taken to resolve it.
+* Screenshots or error messages, if applicable.
+  
+We are committed to supporting our contributors and ensuring you have a positive experience. Don’t hesitate to reach out—we’re here to help!
 
 
-# Let users know where to go for help - provide clear contact info, and outline the process for getting in touch, for anyone with questions.
