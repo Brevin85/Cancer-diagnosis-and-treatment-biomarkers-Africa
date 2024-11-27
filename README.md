@@ -16,4 +16,4 @@ This project is a collaboration between:
 * Brevin Ochieng
 * George Lugonzo
 * Ahmed Abdille
-* https://github.com/George-Lugonzo/George-Lugonzo
+* George-Lugonzo
