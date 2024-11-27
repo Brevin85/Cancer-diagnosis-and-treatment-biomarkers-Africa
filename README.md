@@ -9,4 +9,11 @@ The current problem is the lack of a database for cancer diagnosis and treatment
 # How to Contribute
 [Fill out this cancer biomarkers form] (https://forms.gle/9XDx8Fc718Gi3xPh9)
 
+# Project Team
+This project is a collaboration between:
 
+* Suzanne Njuki (Project lead)
+* Brevin Ochieng
+* George Lugonzo
+* Ahmed Abdille
+* https://github.com/George-Lugonzo/George-Lugonzo
