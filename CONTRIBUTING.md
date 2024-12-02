@@ -18,10 +18,10 @@ The Cancer Diagnosis and Treatment Biomarkers Project is committed to fostering 
 # Our Communication Channels and How to Join
 
 * ## The email list.
-To join, individuals can send an email to [insert email address] with the subject "Subscribe to Biomarkers Project." Once subscribed, participants will receive regular updates, announcements, and important information related to the project directly in their inbox.
+To join, individuals can send an email to [brevinochieng@gmail.com] with the subject "Subscribe to Biomarkers Project." Once subscribed, participants will receive regular updates, announcements, and important information related to the project directly in their inbox.
 
 * ## The Monthly virtual meeting.
-Participants can join the meetings using the provided link [insert meeting link], which allows for interactive discussions and collaboration in real time. These meetings are crucial for fostering communication, ensuring alignment on project goals, and facilitating effective teamwork among all members involved in the project.
+Participants can join the meetings using the provided link [https://meet.google.com/ktg-aecp-twi?hs=224], which allows for interactive discussions and collaboration in real time. These meetings are crucial for fostering communication, ensuring alignment on project goals, and facilitating effective teamwork among all members involved in the project.
 
 * ## Chat client (Slack).
 To join, users need to download the app or visit the website and use the provided invitation link (https://app.slack.com/client/T07MMJJU14K/CUVHK9MA9) to access the project-specific channel, #biomarkers-project. This platform facilitates real-time communication among team members, allowing for quick discussions, sharing of ideas, and collaboration on project-related matters. 
