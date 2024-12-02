@@ -24,7 +24,7 @@ To join, individuals can send an email to [brevinochieng@gmail.com] with the sub
 Participants can join the meetings using the provided link (https://meet.google.com/ktg-aecp-twi?hs=224), which allows for interactive discussions and collaboration in real time. These meetings are crucial for fostering communication, ensuring alignment on project goals, and facilitating effective teamwork among all members involved in the project.
 
 * ## Chat client (Slack).
-To join, users need to download the app or visit the website and use the provided invitation link (https://app.slack.com/client/T07MMJJU14K/CUVHK9MA9) to access the project-specific channel, #biomarkers-project. This platform facilitates real-time communication among team members, allowing for quick discussions, sharing of ideas, and collaboration on project-related matters. 
+To join, users need to download the app or visit the website and use the provided invitation link (https://join.slack.com/t/ols-tku1860/shared_invite/zt-2vh6iuycl-RXH~2qCbm84wafe9aMWaRw) to access the project-specific channel, #biomarkers-project. This platform facilitates real-time communication among team members, allowing for quick discussions, sharing of ideas, and collaboration on project-related matters. 
 
 # How to Submit Changes
 
