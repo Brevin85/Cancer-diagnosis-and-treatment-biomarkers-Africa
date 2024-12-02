@@ -4,7 +4,7 @@ To foster a future where open science and collaboration tackle global health cha
 
 # To our project's contributors
 
-Welcome to the Cancer Diagnosis and Treatment Biomarkers project! We’re excited to have you here and look forward to your contributions. Please introduce yourself and share your interests—connecting with each other helps foster a collaborative community. Thank you for joining us on this important journey!
+Welcome to the Cancer Diagnosis and Treatment Biomarkers project! We’re excited to have you here and look forward to your contributions. Please introduce yourself and share your interests connecting with each other helps foster a collaborative community. Thank you for joining us on this important journey!
 
 # Project's Code of Conduct for Users
 
