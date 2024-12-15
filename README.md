@@ -16,7 +16,7 @@ This project is a collaboration between:
 
 * [@Suenjuki]()   (Project Lead)
   
-![WhatsApp Image 2024-11-07 at 11 09 42_5dc5f74a](https://github.com/user-attachments/assets/58952d88-9a2d-4fb8-9fc2-5903b07dc897)
+![WhatsApp Image 2024-11-07 at 11 09 42_5dc5f74a1](https://github.com/user-attachments/assets/ab41fd66-5f29-4db6-a424-5d5b18ab106c)
 
 * [@Brevin85]()
 
