@@ -15,16 +15,16 @@ To achieve our goals, we require resources such as a website, a GitHub repositor
 This project is a collaboration between:
 
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e) 
- * [@Suenjuki]()   (Project Lead)
+ * Suzanne Njuki [@Suenjuki]()   (Project Lead)
  
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)
- * [@Brevin85]()
+ * Brevin Ochieng Olunga [@Brevin85]()
 
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)   
-* [@AhmedAbdille]()
+* Ahmed Abdille [@AhmedAbdille]()
   
 ![image](https://github.com/user-attachments/assets/974b87eb-79be-4ed4-b658-59d2e3eb9c6e)
-* [@George-Lugonzo]()
+* George Lugonzo [@George-Lugonzo]()
                                                                                                                                                       
 
 
