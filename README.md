@@ -16,11 +16,11 @@ This project is a collaboration between:
 
 * [@Suenjuki]()   (Project Lead)
   
-![WhatsApp Image 2024-11-07 at 11 09 42_5dc5f74a1](https://github.com/user-attachments/assets/ab41fd66-5f29-4db6-a424-5d5b18ab106c)
+![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)
 
 * [@Brevin85]()
 
-![image](https://github.com/user-attachments/assets/28290f5d-be39-4a7b-b595-5b160ff243d8)
+![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)
 
 * [@AhmedAbdille]()
 
