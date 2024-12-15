@@ -12,7 +12,7 @@ The current problem is the lack of a database for cancer diagnosis and treatment
 # Project Team
 This project is a collaboration between:
 
-* @SuzanneNjuki (Project lead)
-* @Brevin85
-* @AhmedAbdille
-* @George-Lugonzo
+* [](@SuzanneNjuki) (Project lead)
+* [](@Brevin85)
+* [](@AhmedAbdille)
+* [](@George-Lugonzo)
