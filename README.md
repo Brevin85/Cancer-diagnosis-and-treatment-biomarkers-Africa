@@ -16,11 +16,11 @@ This project is a collaboration between:
 
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)              ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)
 
-* [@Suenjuki]()   (Project Lead)                                                                       * [@Brevin85]()
+* [@Suenjuki]()   (Project Lead)                                                                                                                                                 * [@Brevin85]()
   
 
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)             ![image](https://github.com/user-attachments/assets/974b87eb-79be-4ed4-b658-59d2e3eb9c6e)
 
-* [@AhmedAbdille]()                                                                                   * [@George-Lugonzo]()
+* [@AhmedAbdille]()                                                                                                                                                          * [@George-Lugonzo]()
 
 
