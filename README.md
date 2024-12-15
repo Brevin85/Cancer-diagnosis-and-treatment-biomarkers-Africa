@@ -12,7 +12,18 @@ The current problem is the lack of a database for cancer diagnosis and treatment
 # Project Team
 This project is a collaboration between:
 
-* [@Suenjuki]()     (Project Lead)
+![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)
+
+* [@Suenjuki]()   (Project Lead)
+  
+![WhatsApp Image 2024-11-07 at 11 09 42_5dc5f74a](https://github.com/user-attachments/assets/58952d88-9a2d-4fb8-9fc2-5903b07dc897)
+
 * [@Brevin85]()
+
+![image](https://github.com/user-attachments/assets/28290f5d-be39-4a7b-b595-5b160ff243d8)
+
 * [@AhmedAbdille]()
+
+![image](https://github.com/user-attachments/assets/974b87eb-79be-4ed4-b658-59d2e3eb9c6e)
+
 * [@George-Lugonzo]()
