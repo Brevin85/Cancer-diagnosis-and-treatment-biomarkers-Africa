@@ -17,7 +17,7 @@ This project is a collaboration between:
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e) 
  * Suzanne Njuki [@Suenjuki]()   (Project Lead)
  
-![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)
+!<img width="1600" height="1600" alt="Photo" src="https://github.com/user-attachments/assets/ba26e5db-470e-4bec-971b-d2c9a83c1cdc" />
  * Brevin Ochieng Olunga [@Brevin85]()
 
 ![image](https://github.com/user-attachments/assets/fe6b57c8-5d84-48bf-8bb3-41f1f825261e)   
